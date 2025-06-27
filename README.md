@@ -15,7 +15,3 @@ A lightweight attendance tracking system that logs check-ins, check-outs, and br
 - Gunicorn
 - DigitalOcean (Ubuntu Server)
 - `tmux` for persistent running
-
-🚀 How to Deploy
-1. Clone this repo
-2. Create a `.env` file with:
